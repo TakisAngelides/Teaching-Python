@@ -1,4 +1,4 @@
-# Teaching
+# Teaching Python
 
 Course Name: Scientific Computing with Python
 
